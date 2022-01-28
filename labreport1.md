@@ -52,6 +52,8 @@ The point of this key is to give us the ability to login without the tedious req
 
 Now we will optimize this process for our personal convenience. I personally did this by the command scp WhereAmI.java cs15lwi22aqi@ieng6.ucsd.edu; ssh cs15lwi22aqi@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI". For this step my password was being denied again which is why there is no screenshot. 
 
+It took me only 2 keystrokes--the up key and the enter key--to do this. Meaning a lot of time was saved, it only took about 1 second to do this. 
+
 Here is the HTML link to my lab report 1:
 
 [HTML link to lab report 1](https://ari2123.github.io/cse15l-lab-reports/labreport1.html)
