@@ -27,7 +27,7 @@ The second code change that our group worked was on adding more if statements to
 
 <img width="603" alt="Screen Shot 2022-01-28 at 3 28 24 PM" src="https://user-images.githubusercontent.com/97698918/151635260-84a21855-7e5c-4e4c-8894-cdd8bf69f80e.png">
 
-We were still getting an ArrayIndexOutOfBoundsException for line 27. In order to correct this we added another if statement and a while block. This was to 
+We were still getting an ArrayIndexOutOfBoundsException for line 27. In order to correct this we fix the error and another infinite loop. This was to 
 change the current index by repeating the code if the character at the index was "!" Meaning, go to the next index. 
 
 ## 3rd Code Change:
