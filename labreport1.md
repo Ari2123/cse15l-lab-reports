@@ -2,7 +2,7 @@
 
 This blog post will be a tutorial for incoming CSE-15L students regarding remote access through Visual Studio Code. 
 
-1. Step #1: 
+1. ## Step #1: 
 
 **Installing VScode**
 
@@ -10,7 +10,7 @@ Go on the visual studio code website [VS Code Download Link](https://code.visual
 
 <img width="356" alt="Screen Shot 2022-01-14 at 7 15 07 PM" src="https://user-images.githubusercontent.com/97698918/149607977-8c6ff7c8-3740-4ee9-b8f9-fef48f6e9aeb.png">
 
-2. Step #2: 
+2. ## Step #2: 
 
 **Remotely Connecting**
 
@@ -21,7 +21,7 @@ Once that is done, it should look something like this:
 
 <img width="398" alt="Screen Shot 2022-01-14 at 7 24 16 PM" src="https://user-images.githubusercontent.com/97698918/149607982-7a757df7-eaa8-4fd1-9727-f0fa228a5617.png">
 
-3. Step #3: 
+3. ## Step #3: 
 
 **Trying Some Commands**
 
@@ -29,7 +29,7 @@ Next step is to try some commands such as "ls -a", "-a", "ls", "ls -i" and see w
 
 <img width="623" alt="Screen Shot 2022-01-14 at 7 30 45 PM" src="https://user-images.githubusercontent.com/97698918/149607992-357c88e1-1b17-4301-99b0-a162e39f5f7f.png">
 
-4. Step #4: 
+4. ## Step #4: 
 
 **Moving Files with scp**
 
@@ -38,7 +38,7 @@ For this step you will have to create a file on your computer called "WhereAmI.j
 
 <img width="625" alt="Screen Shot 2022-01-14 at 7 38 46 PM" src="https://user-images.githubusercontent.com/97698918/149608002-07b62211-2d6b-44a4-ba20-cd6211cdcfe3.png">
 
-5. Step #5: 
+5. ## Step #5: 
 
 **Setting an SSH Key**
 
@@ -46,7 +46,7 @@ The point of this key is to give us the ability to login without the tedious req
 
 <img width="626" alt="Screen Shot 2022-01-14 at 7 44 06 PM" src="https://user-images.githubusercontent.com/97698918/149608003-97c3e74b-4e12-4743-9083-0edc1e6d05dc.png">
 
-6. Step #6: *
+6. ## Step #6: *
 
 **Optimizing Remote Running**
 
