@@ -38,6 +38,8 @@ The third change was replacing line 21 with an if statement.
 
 [3] (https://github.com/ocboogie/markdown-parse/commit/ce6dcbf6156474a0f980316be42c1bcd66fd0d52)
 
+We fix the error by rejecting the extra space between ](. This is done with the if statement where if there is an open parantheses after a closing square bracket, there will be a space between. 
+
 
 
 
