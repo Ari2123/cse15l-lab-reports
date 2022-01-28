@@ -4,7 +4,7 @@ This blog post will be a tutorial for incoming CSE-15L students regarding remote
 
 1. Step #1: **Installing VScode**
 
-Go on the visual studio code website and download it for your appropriate operating system. Once downloaded, it should look something like this:
+Go on the visual studio code website ([VS Code Website](https://code.visualstudio.com/download) and download VS Code for your appropriate operating system. Once downloaded, it should look something like this:
 
 <img width="356" alt="Screen Shot 2022-01-14 at 7 15 07 PM" src="https://user-images.githubusercontent.com/97698918/149607977-8c6ff7c8-3740-4ee9-b8f9-fef48f6e9aeb.png">
 
@@ -39,3 +39,7 @@ The point of this key is to give us the ability to login without the tedious req
 6. Step #6: **Optimizing Remote Running**
 
 Now we will optimize this process for our personal convenience. I personally did this by the command scp WhereAmI.java cs15lwi22aqi@ieng6.ucsd.edu; ssh cs15lwi22aqi@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI". For this step my password was being denied again which is why there is no screenshot. 
+
+Here is the HTML link to my lab report 1:
+
+[1](https://ari2123.github.io/cse15l-lab-reports/labreport1.html)
