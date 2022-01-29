@@ -54,8 +54,5 @@ Now we will optimize this process for our personal convenience. I personally did
 
 It took me only 2 keystrokes--the up key and the enter key--to do this. Meaning a lot of time was saved, it only took about 1 second to do this. 
 
-Here is the HTML link to my lab report 1:
-
-[HTML link to lab report 1](https://ari2123.github.io/cse15l-lab-reports/labreport1.html)
 
 PLEASE SEE: Upon doing the scp step, my client is not accepting the password even for my regular ucsd account that it was accepting before.
