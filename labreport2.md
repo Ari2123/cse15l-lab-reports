@@ -38,10 +38,9 @@ The third change was replacing line 21 with an if statement.
 
 [3] (https://github.com/ocboogie/markdown-parse/commit/ce6dcbf6156474a0f980316be42c1bcd66fd0d52)
 
+<img width="600" alt="Screen Shot 2022-02-11 at 1 50 11 PM" src="https://user-images.githubusercontent.com/97698918/153675133-7945e4c2-353a-4ac0-b90a-f1e357a87dbf.png">
+
 We fix the error by rejecting the extra space between ](. This is done with the if statement where if there is an open parantheses after a closing square bracket, there will be a space between. 
-
-
-
 
 
 
