@@ -14,4 +14,6 @@ Links to lab-reports:
 
 [HTML link to lab report 3](https://ari2123.github.io/cse15l-lab-reports//lab-report-3-week-6.html)
 
+4) Lab Report 4:
 
+[HTML link to lab report 4](https://ari2123.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
