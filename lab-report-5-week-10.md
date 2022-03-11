@@ -13,6 +13,10 @@ matches the previewed output from VScode for this test file.<img width="491" alt
 Whereas the professor's output "< [foo(and(bar]" misses 2 parentheses in the end. My output is the 2nd line in the diff and professor's output is the first based
 on the order in which I called diff. 
 
+I suspect the problem in professor's code to be around this while block:
+<img width="754" alt="Screen Shot 2022-03-10 at 6 20 31 PM" src="https://user-images.githubusercontent.com/97698918/157789698-952d4344-192e-4cce-8966-e6fe800102b2.png">
+
+
 ## TEST 2:
 
 The next test I'm examining comes frome line 884 from results.txt which leads us to test file 497.md
@@ -26,6 +30,9 @@ Upon previewing, we can see that there is a link that is the correct output:
 However, both our results.txt files produce the incorrect output. Professor's provides no link "> []", and mine has 2 extra back slashes and is missing a 
 parentheses at the end "< [foo\(and\(bar\]".
 
+The problem in the code that reflects this error in professor's results.txt might be around here:
+
+<img width="480" alt="Screen Shot 2022-03-10 at 6 21 23 PM" src="https://user-images.githubusercontent.com/97698918/157789789-8862997c-5ce2-4b47-bc9a-b635f95e6241.png">
 
 
 
